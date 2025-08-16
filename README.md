@@ -1,5 +1,4 @@
 # Projeto SQL – Sistema de Gestão de Dados  
-<p> </p>
 
 ## Descrição  
 Este repositório reúne o projeto desenvolvido durante meus estudos de **SQL no Curso de Análise de Dados - EBAC**, 
@@ -19,7 +18,9 @@ O trabalho foi estruturado em etapas progressivas, indo desde a criação de tab
 
 ## Estrutura do Repositório  
 ├── scripts/ # Arquivos SQL organizados por etapas de aprendizado
+
 ├── docs/ # Documentação complementar com resumos e anotações
+
 └── README.md # Apresentação do projeto
 
 
@@ -30,5 +31,5 @@ O projeto também teve como meta exercitar a documentação do processo de apren
 Documentação
 Na pasta docs/ estão reunidos resumos teóricos e observações práticas sobre cada etapa do aprendizado.
 
-
-Desenvolvido por Tayná Soares durante minha jornada de aprendizado No Curso de Análise de Dados - EBAC.
+<p></p>
+Desenvolvido por Tayná Soares durante minha jornada de aprendizado no Curso de Análise de Dados - EBAC.

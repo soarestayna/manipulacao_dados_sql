@@ -31,5 +31,5 @@ O projeto também teve como meta exercitar a documentação do processo de apren
 Documentação:
 Na pasta docs/ estão reunidos resumos teóricos e observações práticas sobre cada etapa do aprendizado.
 
-
+##
 Desenvolvido por Tayná Soares durante minha jornada de aprendizado no Curso de Análise de Dados - EBAC.

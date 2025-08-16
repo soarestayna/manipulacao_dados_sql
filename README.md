@@ -28,8 +28,8 @@ O trabalho foi estruturado em etapas progressivas, indo desde a criação de tab
 O objetivo principal foi **consolidar a base em SQL**, explorando boas práticas de organização e versionamento de código.  
 O projeto também teve como meta exercitar a documentação do processo de aprendizagem, tornando o repositório útil tanto como **portfólio** quanto como **material de consulta futura**.  
 
-Documentação
+Documentação:
 Na pasta docs/ estão reunidos resumos teóricos e observações práticas sobre cada etapa do aprendizado.
 
-<p></p>
+
 Desenvolvido por Tayná Soares durante minha jornada de aprendizado no Curso de Análise de Dados - EBAC.

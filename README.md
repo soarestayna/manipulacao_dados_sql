@@ -17,18 +17,19 @@ O trabalho foi estruturado em etapas progressivas, indo desde a criação de tab
 - Desenvolvimento de **procedimentos armazenados** e **funções** para lógica mais complexa.  
 
 ## Estrutura do Repositório  
-├── scripts/ # Arquivos SQL organizados por etapas de aprendizado
+├── scripts/   # Arquivos SQL organizados por etapas de aprendizado
 
-├── docs/ # Documentação complementar com resumos e anotações
+├── docs/   # Documentação complementar com resumos e anotações
 
-└── README.md # Apresentação do projeto
-
+└── README.md   # Apresentação do projeto
+##
 
 **Objetivo de Aprendizado**
 O objetivo principal foi **consolidar a base em SQL**, explorando boas práticas de organização e versionamento de código.  
 O projeto também teve como meta exercitar a documentação do processo de aprendizagem, tornando o repositório útil tanto como **portfólio** quanto como **material de consulta futura**.  
 
 **Documentação:**
+
 Na pasta docs/ estão reunidos resumos teóricos e observações práticas sobre cada etapa do aprendizado.
 
 ##
